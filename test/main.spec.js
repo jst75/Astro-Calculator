@@ -11,7 +11,7 @@ app.listen(8888);
 const url = 'http://localhost:8888/index.html';
 
 
-describe('Change Calculator', function () {
+describe('Astro Weight Calculator', function () {
   this.timeout(10000);
   this.slow(3000);
 
